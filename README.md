@@ -25,3 +25,5 @@ git config --global user.name "enteruser name"
 git config --global user.email  "enter mail"
 git config --global github.user  "enter password"
 
+
+check
