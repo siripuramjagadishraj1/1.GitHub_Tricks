@@ -20,10 +20,8 @@ git branch -a  //shows all branches <br/>
 git checkout branchname //switch to branch name <br/>
 git checkout -b newbranch //creates and swithches to new branchname <br/>
 
-#### User name and Password handling
-git config --global user.name "enteruser name"
-git config --global user.email  "enter mail"
-git config --global github.user  "enter password"
-
-
-check
+#### User name and Password handling <br/>
+git config --global user.name "enteruser name" <br/>
+git config --global user.email  "enter mail" <br/>
+git config --global github.user  "enter password" <br/>
+git config --global credential.helper wincred <br/>
