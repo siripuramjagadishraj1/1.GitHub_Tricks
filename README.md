@@ -20,9 +20,9 @@ git branch -a  //shows all branches <br/>
 git checkout branchname //switch to branch name <br/>
 git checkout -b newbranch //creates and swithches to new branchname <br/>
 
-#### User name and Password handling <br/>
-git config --global --unset credential.helper   //reset Credentials <br/>
-git config credential.helper store              //git pull and give credentials will be saved for ever <br/>
+### User name and Password handling <br/>
+git config --global --unset credential.helper   //<b>reset Credentials</b> <br/>
+git config credential.helper store              //<b>git pull and give credentials will be saved for ever</b> <br/>
 git config --global user.name "enteruser name" <br/>
 git config --global user.email  "enter mail" <br/>
 git config --global github.user  "enter password" <br/>
