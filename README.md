@@ -27,3 +27,21 @@ git config --global user.name "enteruser name" <br/>
 git config --global user.email  "enter mail" <br/>
 git config --global github.user  "enter password" <br/>
 git config --global credential.helper wincred <br/>
+
+### Intellij Short cuts
+sout
+ctrl+shiftt+f10
+ctrl+o
+Plugin:
+	Presentation Assistant
+	Ace Jump
+shift shift
+ctrl+shift+n
+shift+ctrl+f
+cmd+12
+ctrl+o
+call heiriarchy= ctrl+alt+H
+ctrl+f7
+shift+12 reset layout
+alt+ins
+ctrl+shift+f12
