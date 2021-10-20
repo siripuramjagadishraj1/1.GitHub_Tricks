@@ -45,3 +45,11 @@ ctrl+f7
 shift+12 reset layout
 alt+ins
 ctrl+shift+f12
+
+### Other Used Commands
+git stash && git checkout dev && git pull upstream dev && git checkout <branch> && git rebase dev && git stash pop
+git reset --soft HEAD~1
+git log -1
+git commit --amend -m "message"
+git cherry-pic <commit-id>
+creating a release branch
