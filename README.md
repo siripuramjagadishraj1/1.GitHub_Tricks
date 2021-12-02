@@ -29,27 +29,27 @@ git config --global github.user  "enter password" <br/>
 git config --global credential.helper wincred <br/>
 
 ### Intellij Short cuts
-sout
-ctrl+shiftt+f10
-ctrl+o
-Plugin:
-	Presentation Assistant
-	Ace Jump
-shift shift
-ctrl+shift+n
-shift+ctrl+f
-cmd+12
-ctrl+o
-call heiriarchy= ctrl+alt+H
-ctrl+f7
-shift+12 reset layout
-alt+ins
-ctrl+shift+f12
+sout <br/>
+ctrl+shiftt+f10 <br/>
+ctrl+o <br/>
+Plugin: <br/>
+	Presentation Assistant <br/>
+	Ace Jump <br/>
+shift shift <br/>
+ctrl+shift+n <br/>
+shift+ctrl+f <br/>
+cmd+12 <br/>
+ctrl+o <br/>
+call heiriarchy= ctrl+alt+H <br/>
+ctrl+f7 <br/>
+shift+12 reset layout <br/>
+alt+ins <br/>
+ctrl+shift+f12 <br/>
 
 ### Other Used Commands
-git stash && git checkout dev && git pull upstream dev && git checkout <branch> && git rebase dev && git stash pop
-git reset --soft HEAD~1
-git log -1
-git commit --amend -m "message"
-git cherry-pic <commit-id>
-creating a release branch
+git stash && git checkout dev && git pull upstream dev && git checkout <branch> && git rebase dev && git stash pop <br/>
+git reset --soft HEAD~1 <br/>
+git log -1 <br/>
+git commit --amend -m "message" <br/>
+git cherry-pic <commit-id> <br/>
+creating a release branch <br/>
